@@ -16,6 +16,7 @@ The objective is to understand key financial and operational metrics such as:
 -Total collection
 -Total interest
 
+
 **Analytical Insights**
 
 **Branch-wise Loan Distribution**
@@ -48,14 +49,12 @@ The insights generated from this project can help:
 
 **How to Use**
 
-**Step 1: Download the Files
-**
+**Step 1: Download the Files**
 Open the repository on GitHub
 Click on “Code” → Download ZIP
 Extract the files
-**
-Step 2: Import Data into Database
-**
+
+**Step 2: Import Data into Database**
 Using MySQL:
 
 CREATE DATABASE banking_analysis;
@@ -75,5 +74,4 @@ Open the .sql file
 Execute the queries in your SQL editor to generate insights
 
 **Author
-Mohammad Suhair
-**
+Mohammad Suhair**
