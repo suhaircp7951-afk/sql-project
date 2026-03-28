@@ -55,10 +55,12 @@ Click on “Code” → Download ZIP
 Extract the files
 
 **Step 2: Import Data into Database**
-Using MySQL:
 
+Using MySQL:
+```
 CREATE DATABASE banking_analysis;
 USE banking_analysis;
+```
 
 Convert the Excel file to CSV format
 Use the Table Data Import Wizard to load the data
